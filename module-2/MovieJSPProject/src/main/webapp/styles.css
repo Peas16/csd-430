@@ -1,0 +1,38 @@
+/* Paul Fralix CSD430 01/18/2026 Assignment Module 2 */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    padding: 20px;
+}
+
+h1, h2 {
+    color: #2c3e50;
+}
+
+.description {
+    margin-bottom: 20px;
+    font-size: 14px;
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    margin-top: 20px;
+    background-color: #ffffff;
+}
+
+th, td {
+    border: 1px solid #cccccc;
+    padding: 10px;
+    text-align: left;
+}
+
+th {
+    background-color: #34495e;
+    color: white;
+}
+
+tr:nth-child(even) {
+    background-color: #f2f2f2;
+}
